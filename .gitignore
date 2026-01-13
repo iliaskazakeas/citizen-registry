@@ -1,21 +1,24 @@
 # Maven
 **/target/
 
-# H2 local db files
-**/citizensDB*.db
-**/*.mv.db
-**/*.trace.db
-
-# Eclipse/IDE
-.settings/
+# Eclipse
 .classpath
 .project
+.settings/
+.metadata/
 
-# IntelliJ / VSCode
+# IntelliJ (αν υπάρχει)
 .idea/
 *.iml
-.vscode/
 
 # OS
 .DS_Store
 Thumbs.db
+
+# H2 database files
+**/*.mv.db
+**/*.trace.db
+**/*.db
+
+# Logs
+**/*.log
