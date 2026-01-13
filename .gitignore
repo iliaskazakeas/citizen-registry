@@ -7,7 +7,7 @@
 .settings/
 .metadata/
 
-# IntelliJ (αν υπάρχει)
+# IntelliJ 
 .idea/
 *.iml
 
