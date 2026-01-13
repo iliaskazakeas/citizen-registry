@@ -11,7 +11,7 @@
 .classpath
 .project
 
-# IntelliJ / VSCode
+# IntelliJ / VSCode /
 .idea/
 *.iml
 .vscode/
